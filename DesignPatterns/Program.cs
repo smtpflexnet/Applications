@@ -18,7 +18,7 @@ namespace DesignPatterns
             //Tester.Behavioral.State();
             //Tester.Behavioral.Strategy();
             //Tester.Creational.AbstractFactory();
-            Console.Read();
+            //Console.Read();
         }
 
         
